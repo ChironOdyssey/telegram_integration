@@ -1,0 +1,1 @@
+module.exports = {telegraf_token:'566067810:AAGBcNV05OF6GTgDWAnTfbdAD8P7PM_X9h8'};
